@@ -45,7 +45,6 @@ www.epochtimes.com
 海♢外最大中文媒体
 
 ■新♢唐♢人电视台
-
 www.ntdtv.com
 
 全球最大的中文电视台
@@ -55,7 +54,6 @@ www.ntdtv.com
 www.soundofhope.org
 
 ■看♢中♢国
-
 www.secretchina.com
 
 ■明♢慧♢网
