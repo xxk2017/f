@@ -1,8 +1,8 @@
-🌺好消息2017年
+🌺中国网民好消息
 
 🌺苹果iPhone、ios
 
-🌺苹果手机/平板/电脑
+🌺苹果手机、平板、电脑
 
 🌺最佳免费翻墙方法
 
@@ -16,7 +16,7 @@
 
 https://chrome.cn.uptodown.com/android （谷歌安卓版）
 
-https://google-chrome.cn.uptodown.com/windows （win版）
+https://google-chrome.cn.uptodown.com/windows （windows电脑版）
 
 ■https://bit.ly/iphonefq 
 
@@ -26,13 +26,13 @@ https://github.com/bannedbook/fanqiang/wiki/pacfq
 
 此方法适合苹果iPhone、ios
 
-适合苹果手机/平板/电脑
+适合苹果手机、平板、电脑
 
 翻♢墙成功后
 
 可用苹果自带浏览器或者谷歌浏览器打开如下
 
-全球最热门中文网站
+全球最热门中文网站（需翻墙）
 
 ■网♢门
 www.ogate.org
