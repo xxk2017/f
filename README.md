@@ -6,7 +6,9 @@
 
 🌺最佳免费翻墙方法
 
-■https://git.io/ogate
+🍎苹果翻墙方法一
+https://git.io/ogate 
+（热门推荐）
 
 保存到苹果自带浏览器中。可随时直接打开，看到全球全部真实资讯
 
@@ -22,7 +24,9 @@ https://google-chrome.cn.uptodown.com/windows
 
 （谷歌浏览器windows电脑版）
 
-■https://bit.ly/iphonefq 
+🍎苹果翻墙方法之二
+
+https://bit.ly/iphonefq 
 
 https://git.io/ifq
 
