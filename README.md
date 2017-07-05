@@ -1,10 +1,10 @@
-🌺中国苹果用户上网好消息
+✅中国苹果用户上网好消息
 
-🌺苹果iPhone、ios
+✅苹果iPhone、ios
 
-🌺苹果手机、平板、电脑
+✅苹果手机、平板、电脑
 
-🌺最佳免费翻墙方法
+✅最佳免费翻墙方法
 
 🍎苹果翻墙方法一
 https://git.io/ogate 
@@ -25,12 +25,11 @@ https://google-chrome.cn.uptodown.com/windows
 （谷歌浏览器windows电脑版）
 
 🍎苹果翻墙方法之二
+■https://bit.ly/iphonefq 
 
-https://bit.ly/iphonefq 
+■https://git.io/ifq
 
-https://git.io/ifq
-
-https://github.com/bannedbook/fanqiang/wiki/pacfq
+■https://github.com/bannedbook/fanqiang/wiki/pacfq
 
 此方法适合苹果iPhone、ios
 
