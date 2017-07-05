@@ -15,9 +15,11 @@
 此方法也适合安卓与电脑用户。推荐使用谷歌浏览器，国产浏览器会干扰访问，请卸载。
 
 https://chrome.cn.uptodown.com/android 
+
 （谷歌浏览器安卓版）
 
 https://google-chrome.cn.uptodown.com/windows
+
 （谷歌浏览器windows电脑版）
 
 ■https://bit.ly/iphonefq 
